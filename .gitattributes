@@ -1,0 +1,7 @@
+proprietary/odm/lib64/camera/com.qti.tuned.ishtar_semco_imx989_wide.bin filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/etc/camera/aivsModel_57749835 filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/etc/camera/aivsModel_ACCFB464 filter=lfs diff=lfs merge=lfs -text
+proprietary/vendor/lib/rfsa/adsp/libvpt_action_recognition.so filter=lfs diff=lfs merge=lfs -text
+proprietary/odm/lib64/libxmi_high_dynamic_range_cdsp.so filter=lfs diff=lfs merge=lfs -text
+radio/dsp.img filter=lfs diff=lfs merge=lfs -text
+radio/modem.img filter=lfs diff=lfs merge=lfs -text
